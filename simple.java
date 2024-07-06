@@ -2,6 +2,6 @@ public class simple java
 {
 	public static void main(String[]args)
 	{
-		system.out.println("welcome to java tumkuru mysore spt");
+		system.out.println("welcome to java tumkuru  spt");
 	}
 }
